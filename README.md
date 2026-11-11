@@ -1,7 +1,7 @@
 # prog-for-cyber-cw1
 Classwork1
 
-# name - 
+# Name - Colin M Gow
 # Student banner id - B01888722
 # Campus - NCL Motherwell
 
