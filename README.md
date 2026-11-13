@@ -31,10 +31,16 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 
 # instructions on how to get testing table
 
-go to the file link in the branch [like in the picture below, location highlighted in red]
+2 ways of getting to the file, the first is in the read me, and the second is at the top where all files are stored > [like in the picture below, location highlighted in red]
 <img width="1134" height="883" alt="image" src="https://github.com/user-attachments/assets/73a096d5-8bea-4b45-a298-e474cb401531" />
 
 
 Then go to the down arrow at the right side of the header [like in the picture below, location highlighted in red]
+
+<h1>.</h1> read me location
 <img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/234642f7-f464-4ca3-b72d-10de07b6e0ff" />
+
+<h1>.</h1> file location
+<img width="1901" height="941" alt="image" src="https://github.com/user-attachments/assets/f28190e8-3abc-4ba0-a9ec-f99c7eacd5a7" />
+
 
