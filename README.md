@@ -37,10 +37,10 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 
 Then go to the down arrow at the right side of the header [like in the picture below, location highlighted in red]
 
- • read me location
+ - read me location
 <img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/234642f7-f464-4ca3-b72d-10de07b6e0ff" />
 
-• file location
+- file location
 <img width="1901" height="941" alt="image" src="https://github.com/user-attachments/assets/f28190e8-3abc-4ba0-a9ec-f99c7eacd5a7" />
 
 
