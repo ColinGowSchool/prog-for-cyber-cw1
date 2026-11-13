@@ -1,7 +1,11 @@
 # prog-for-cyber-cw1
 Classwork1
 
-# [Task 4](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-incident-manager/Task%204.py)
+# Name - Colin M Gow
+# Student banner id - B01888722
+# Campus - NCL Motherwell
+
+# [Task 4 program](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-incident-manager/Task%204.py)
 
 
 ## Main program instructions
