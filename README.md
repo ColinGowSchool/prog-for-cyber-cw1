@@ -1,7 +1,11 @@
 # prog-for-cyber-cw1
 Classwork1
 
-# [Task 1](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-tools/Task%201.py)
+# Name - Colin M Gow
+# Student banner id - B01888722
+# Campus - NCL Motherwell
+
+# [Task 1 program](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-tools/Task%201.py)
 ## main program instructions
 Enter password in (password123!) if not entered correctly within 3 tries, then the user will get locked out and will need to try again.
 Once correct password has been entered, user must then choose one of the options displayed, the program will keep running until user chooses option 4
