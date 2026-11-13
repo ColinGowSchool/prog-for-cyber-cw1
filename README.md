@@ -22,5 +22,5 @@ Option 3 will prompt you to enter a username, and password (username - "admin" p
 ### option 4
 Enter 4 to end program
 
-# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-tools/Testing%20table%20for%20task%201.docx)
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-tools/Testing%20table%20for%20task%201.pdf)
 This file has test tables with what steps I done in each part, and if the test failed, or passed
