@@ -17,3 +17,6 @@ The program will display keys, and values of the dictionary, then the user will 
 Then the program will show the current dictionary with it's keys and values, then show how many pairs are in the dictionary
 
 At the end of the program the user will be prompted to run through the code again
+
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/security-incident-manager/Testing%20table%20for%20task%204.docx)
+This file has test tables with what steps I done in each part, and if the test failed, or passed
