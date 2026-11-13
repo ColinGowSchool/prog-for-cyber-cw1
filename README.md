@@ -15,7 +15,7 @@ If either ip address, or password is failed the it will run through the code aga
 
 Once both requirements are met, the user will be prompted to go through the code again or to end the program
 
-# [security_tools](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/security_tools.py)
+# [security_tools program](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/security_tools.py)
 
 ## where all the logic happens [not instructions just descriptions]
 
