@@ -4,7 +4,7 @@
 # Student banner id - B01888722
 # Campus - NCL Motherwell
 
-# [main](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/main.py)
+# [Main Program](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/main.py)
 ## Main program instructions
 
 Program will prompt the user to enter a password, if the password does not meet the specific specs, then it will tell the user what requirement it didn't meet
