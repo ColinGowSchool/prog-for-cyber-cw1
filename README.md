@@ -15,3 +15,6 @@ Then once a correctly formatted ip address is entered, it will display the list 
 Then at the final section of the program it will ask you to look for an ip address, if nothing or an informated ip address is entered it'll prompt you to enter again with a message saying it was not a valid ip address, if it was a correctly formatted ip address then it'll display whether it was in the list of not
 
 Then at the end of the program it will prompt you to go through again if the user wishes
+
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/ip-address-validator/Testing%20table%20for%20task%203.docx)
+This file has test tables with what steps I done in each part, and if the test failed, or passed
