@@ -23,3 +23,7 @@ the third and fourth functions are for checking the ip address, the third functi
 the fourth function will call the third function and check if any dots are detected, if not store a false, if there is store a true, then it checks how many dots there are, if there are 3 then store a true, otherwise store a false, then it calls the function to check the octets, if all validation checkers return true values it returns true, if it doesn’t then it will return a false
 
 the fifth function will make up a strong password that is between 10-16 characters long, choose between symbols, have at least one capital letter, and one lowercase letter
+
+
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/Testing%20table%20for%20task%205.docx)
+This file has test tables with what steps I done in each part, and if the test failed, or passed
