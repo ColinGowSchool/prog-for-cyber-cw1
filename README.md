@@ -28,5 +28,5 @@ the fourth function will call the third function and check if any dots are detec
 the fifth function will make up a strong password that is between 10-16 characters long, choose between symbols, have at least one capital letter, and one lowercase letter
 
 
-# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/Testing%20table%20for%20task%205.docx)
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/Testing%20table%20for%20task%205.pdf)
 This file has test tables with what steps I done in each part, and if the test failed, or passed
