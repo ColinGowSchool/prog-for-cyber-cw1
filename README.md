@@ -31,7 +31,7 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 
 # instructions on how to get testing table
 
-2 ways of getting to the file, the first is in the read me, and the second is at the top where all files are stored > [like in the picture below, location highlighted in red]
+Instructions are in a pdf, should be viewable from github, just click the link in the read me, or at the top where the files are located > [like in the picture below, location highlighted in red]
 
  - read me location
 <img width="1134" height="883" alt="image" src="https://github.com/user-attachments/assets/73a096d5-8bea-4b45-a298-e474cb401531" />
@@ -39,7 +39,3 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 - file location
 <img width="1901" height="941" alt="image" src="https://github.com/user-attachments/assets/f28190e8-3abc-4ba0-a9ec-f99c7eacd5a7" />
 
-Then go to the down arrow at the right side of the header [like in the picture below, location highlighted in red]
-
-- download location
-<img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/234642f7-f464-4ca3-b72d-10de07b6e0ff" />
