@@ -24,9 +24,9 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 
 # Programs used
 
-<h1>.</h1> Visual studio code
+ (U+2B24) Visual studio code
 
-<h1>.</h1> Github
+ (U+2B24) Github
 
 
 # instructions on how to get testing table
@@ -37,7 +37,7 @@ Multi-program: main the main section of the code, it imports a secondary file ca
 
 Then go to the down arrow at the right side of the header [like in the picture below, location highlighted in red]
 
-<h1>.</h1> read me location
+ (U+2B24) read me location
 <img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/234642f7-f464-4ca3-b72d-10de07b6e0ff" />
 
 <h1>.</h1> file location
