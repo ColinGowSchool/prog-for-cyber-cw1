@@ -1,5 +1,8 @@
 # prog-for-cyber-cw1
 
+# Name - Colin M Gow
+# Student banner id - B01888722
+# Campus - NCL Motherwell
 
 # [main](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/cyber-security-utilities/main.py)
 ## Main program instructions
