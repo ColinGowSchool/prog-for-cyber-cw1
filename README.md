@@ -20,5 +20,5 @@ Then at the final section of the program it will ask you to look for an ip addre
 
 Then at the end of the program it will prompt you to go through again if the user wishes
 
-# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/ip-address-validator/Testing%20table%20for%20task%203.docx)
+# [Testing table with screenshots](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/ip-address-validator/Testing%20table%20for%20task%203.pdf)
 This file has test tables with what steps I done in each part, and if the test failed, or passed
