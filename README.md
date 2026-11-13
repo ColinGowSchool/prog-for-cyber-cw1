@@ -1,7 +1,11 @@
 # prog-for-cyber-cw1
 Classwork1
 
-# [Task 3](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/ip-address-validator/Task%203.py)
+# Name - Colin M Gow
+# Student banner id - B01888722
+# Campus - NCL Motherwell
+
+# [Task 3 program](https://github.com/ColinGowSchool/prog-for-cyber-cw1/blob/ip-address-validator/Task%203.py)
 
 
 ## Main program instructions
