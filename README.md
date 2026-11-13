@@ -20,3 +20,6 @@ Making a dictionary adding a key and value, deleting a key, updating a value fro
 
 ## [Task 5 - cyber-security-utilities](https://github.com/ColinGowSchool/prog-for-cyber-cw1/tree/cyber-security-utilities)
 Multi-program: main the main section of the code, it imports a secondary file called "security_tools" and within that is sections to test ip address's, check a password if it meets a set requirements, create a strong password and displays it if the users password is weak, then in the main section of the main program call all of these in order, and get the user to input their password, and ip address
+
+
+<img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/234642f7-f464-4ca3-b72d-10de07b6e0ff" />
